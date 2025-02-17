@@ -3,9 +3,9 @@
 
 This is a skeleton WordPress project that can be used to quickly scaffold
 WordPress projects that work with Alley's
-[create-wordpress-plugin](https://github.com/alleyinteractive/create-wordpress-plugin)
+[create-wordpress-plugin](https://github.com/renna-sab/create-wordpress-plugin)
 and
-[create-wordpress-theme](https://github.com/alleyinteractive/create-wordpress-theme)
+[create-wordpress-theme](https://github.com/renna-sab/create-wordpress-theme)
 starter kits.
 
 This template is rooted at the `wp-content` and supports both Pantheon and
@@ -35,11 +35,11 @@ practices for WordPress development.
 ## Credits
 
 This project is actively maintained by [Alley
-Interactive](https://github.com/alleyinteractive). Like what you see? [Come work
+Interactive](https://github.com/renna-sab). Like what you see? [Come work
 with us](https://alley.com/careers/).
 
 - [author_name](https://github.com/author_username)
-- [Alley Interactive](https://github.com/alleyinteractive)
+- [Alley Interactive](https://github.com/renna-sab)
 - [All Contributors](../../contributors)
 
 ## License
